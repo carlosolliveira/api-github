@@ -13,10 +13,10 @@ pip install emoji
 ### Result main.py
 ```
 ##############################
-Carlos Oliveira | vxc4rlos
+You name | username
 followers: 0 Following 5
 Bio: beginner programmer
 ### REPOSITÓRIOS ###
 
-vxc4rlos        0 ⭐
+NameRepositorio     0 ⭐
 ```
